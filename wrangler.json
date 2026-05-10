@@ -12,9 +12,10 @@
 	],
 	"observability": {
 		"enabled": true
-	}{
+	},
+	
   "analytics_engine_datasets": [
     { "binding": "analytics_engine_01", "dataset": "analytic_events-1" }
   ]
-}
+
 }
